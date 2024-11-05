@@ -2,6 +2,7 @@
 This repository is the implementation of ISWC 2024 paper: Unaligned Federated Knowledge Graph Embedding.
 In this work, we propose UniFE, an unaligned federated knowledge graph embedding framework,
 which consider the federated KGE in a more realistic scenario (the heterogeneous federated environment without any aligned set).
+
 ![Framework](./framework.png "The overview of the framework.")
 
 ## Requirements
