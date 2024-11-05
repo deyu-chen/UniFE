@@ -41,8 +41,7 @@ If you find our work useful in your research, please cite:
                   Jinguang Gu and
                   Rusi Chen and
                   Meiyi Xie},
-  title        = {Unaligned Federated Knowledge Graph
-                  Embedding},
+  title        = {Unaligned Federated Knowledge Graph Embedding},
   booktitle    = {International Semantic Web Conference},
   year         = {2024},
 }
